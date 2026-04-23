@@ -12,9 +12,9 @@ Auteur: zNsk0
   - Exemples: `/mute Player 30s`, `/mute Player 5m`, `/mute Player 1h`, `/mute Player 1d`
   - Sans duree = mute permanent
 - `/unmute <joueur>` - Reactive un joueur mute
-- `/clear` - Vide le chat pour tout le monde
+- `/cleaner` - Vide le chat pour tout le monde
 - `/slowchat` - Active/desactive le mode lent (anti-spam)
-- `/mutechat` - Verrouille/deverrouille completement le chat
+- `/lock` - Verrouille/deverrouille completement le chat
 - `/msg <joueur> <message>` - Envoie un message prive
 - `/staffchat <message>` - Chat reserve au staff
 - `/chatlogs [nombre]` - Affiche les derniers logs du chat
