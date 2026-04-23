@@ -133,7 +133,7 @@ Tous les messages du plugin sont configurables dans le fichier config.yml.
 
 ## Dependances
 
-- PocketMine-MP 5.0 ou superieur
+- PocketMine-MP 5.0
 
 ## Support
 
